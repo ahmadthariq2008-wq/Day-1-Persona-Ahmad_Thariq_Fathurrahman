@@ -2,9 +2,9 @@
 
 SOSIALISASI TIK DAY-1
 
-Nama      : Ahmad Thariq Fathurrahman
-Kelas     : TI MSU 1A
-Kelompok  : 8 - Persona
+Nama      : Ahmad Thariq Fathurrahman /n
+Kelas     : TI MSU 1A /n
+Kelompok  : 8 - Persona /n
 
 ---
 

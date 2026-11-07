@@ -3,7 +3,9 @@
 SOSIALISASI TIK DAY-1
 
 Nama      : Ahmad Thariq Fathurrahman
+
 Kelas     : TI MSU 1A
+
 Kelompok  : 8 - Persona
 
 **DESKRIPSI SINGKAT TENTANG REPOSITORY**

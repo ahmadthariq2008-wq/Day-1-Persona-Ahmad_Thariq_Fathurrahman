@@ -1,5 +1,11 @@
 # Day-1-Persona-Ahmad_Thariq_Fathurrahman
+
 SOSIALISASI TIK DAY-1
+
+Nama      : Ahmad Thariq Fathurrahman
+Kelas     : TI MSU 1A
+Kelompok  : 8 - Persona
+
 **DESKRIPSI SINGKAT TENTANG REPOSITORY**
 
 Respository GitHub adalah tempat penyimpanan project di GitHub yang berisi source code, file project, aset, dokumentasi, dan histori perubahan project. Repository ini difungsikan untuk melacak setiap tahapan perubahan kode (version controlling) selama proses pengembangan berlangsung, sekaligus menjadi tempat pengumpulan hasil akhir dari implementasi aplikasi yang telah dibangun.
